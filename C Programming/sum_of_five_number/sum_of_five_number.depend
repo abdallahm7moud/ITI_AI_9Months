@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730503470 source:d:\iti\intro to c programming tasks\sum_of_five_number\main.c
+	<stdio.h>
+	<stdlib.h>
+
