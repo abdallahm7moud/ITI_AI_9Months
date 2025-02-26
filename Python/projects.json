@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "lol",
+        "details": "lol",
+        "target": 10000.0,
+        "start_date": "2024-01-01",
+        "end_date": "2024-04-01",
+        "owner": "abdallah@gmail.com"
+    },
+    "2": {
+        "title": "a",
+        "details": "a",
+        "target": 20000.0,
+        "start_date": "2024-05-01",
+        "end_date": "2024-10-01",
+        "owner": "abdallah@gmail.com"
+    },
+    "3": {
+        "title": "oo",
+        "details": "oo",
+        "target": 70000.0,
+        "start_date": "2024-01-01",
+        "end_date": "2024-03-01",
+        "owner": "abdo@gmail.com"
+    }
+}
