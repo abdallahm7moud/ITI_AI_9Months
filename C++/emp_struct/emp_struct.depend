@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730463621 source:d:\iti\intro to c programming tasks\emp_struct\main.cpp
+	<iostream>
+	<string.h>
+

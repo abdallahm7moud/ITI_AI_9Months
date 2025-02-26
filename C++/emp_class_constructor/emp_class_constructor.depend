@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730629695 source:d:\iti\oop c++\emp_class_constructor\main.cpp
+	<iostream>
+	<string.h>
+
