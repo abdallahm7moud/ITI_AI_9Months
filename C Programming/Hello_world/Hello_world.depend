@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514144174 source:d:\iti\intro to c programming tasks\hello_world\main.c
+	<stdio.h>
+	<stdlib.h>
+
