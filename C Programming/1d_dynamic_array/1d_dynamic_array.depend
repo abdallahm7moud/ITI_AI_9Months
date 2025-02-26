@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729691231 source:d:\iti\intro to c programming tasks\1d_dynamic_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
