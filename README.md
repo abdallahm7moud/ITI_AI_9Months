@@ -18,6 +18,7 @@ This repo documents my learning journey, covering fundamental programming, mathe
 - ✅ Data Structures & Algorithms  
 - ✅ Linux Essentials  
 - ✅ Database Management (MySQL)  
+- ✅ NoSQL  
 
 ## 📂 Repository Structure  
 This repository includes notes, code implementations, and projects from my coursework. Stay tuned for updates as I continue expanding my skills!  
@@ -25,6 +26,5 @@ This repository includes notes, code implementations, and projects from my cours
 ## 🌟 Connect with Me  
 If you're interested in discussing AI, ML, or software engineering, feel free to reach out!  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abdallahm7moud/) | 📧 [Email](mailto:abdallahmahmoud2411@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdallahm7moud/) | 📧 [Email](mailto:abdallahmahmoud2411@gmail.com)
 
----
