@@ -27,4 +27,3 @@ This repository includes notes, code implementations, and projects from my cours
 If you're interested in discussing AI, ML, or software engineering, feel free to reach out!  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/abdallahm7moud/) | 📧 [Email](mailto:abdallahmahmoud2411@gmail.com)
-
